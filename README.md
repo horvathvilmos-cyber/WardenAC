@@ -1,2 +1,2 @@
 # WardenAC
-The enticheat's new generacions
+The anticheat's new generacions
